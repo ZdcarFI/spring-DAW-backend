@@ -28,6 +28,7 @@ com\api\springsecurity\config\security\SecurityBeansInjector.class
 com\api\springsecurity\dto\RegisteredUser.class
 com\api\springsecurity\persistence\repository\security\UserRepository.class
 com\api\springsecurity\service\ProductService.class
+com\api\springsecurity\SpringsecurityApplication.class
 com\api\springsecurity\persistence\entity\Category$CategoryStatus.class
 com\api\springsecurity\persistence\repository\ProductRepository.class
 com\api\springsecurity\exception\InvalidPasswordException.class
@@ -40,7 +41,6 @@ com\api\springsecurity\dto\auth\AuthenticationResponse.class
 com\api\springsecurity\service\auth\AuthenticationService.class
 com\api\springsecurity\dto\SavePermission.class
 com\api\springsecurity\config\security\handler\CustomAuthenticationEntryPoint.class
-com\api\springsecurity\ApiApplication.class
 com\api\springsecurity\controller\PermissionController.class
 com\api\springsecurity\dto\ApiError.class
 com\api\springsecurity\controller\ProductController.class
