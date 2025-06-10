@@ -39,7 +39,6 @@ com\api\springsecurity\dto\LogoutResponse.class
 com\api\springsecurity\config\security\filter\JwtAuthenticationFilter.class
 com\api\springsecurity\dto\auth\AuthenticationResponse.class
 com\api\springsecurity\service\auth\AuthenticationService.class
-com\api\springsecurity\SpringsecurityApplication$Myconfiguration.class
 com\api\springsecurity\dto\SavePermission.class
 com\api\springsecurity\config\security\handler\CustomAuthenticationEntryPoint.class
 com\api\springsecurity\controller\PermissionController.class
@@ -50,7 +49,6 @@ com\api\springsecurity\persistence\entity\security\Module.class
 com\api\springsecurity\service\impl\ProductServiceImpl.class
 com\api\springsecurity\persistence\entity\security\Operation.class
 com\api\springsecurity\persistence\entity\security\GrantedPermission.class
-com\api\springsecurity\SpringsecurityApplication$Myconfiguration$1.class
 com\api\springsecurity\persistence\entity\Category.class
 com\api\springsecurity\controller\CustomerController.class
 com\api\springsecurity\persistence\repository\CategoryRepository.class
